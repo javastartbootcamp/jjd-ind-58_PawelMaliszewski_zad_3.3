@@ -1,10 +1,9 @@
 package pl.javastart.task;
 
 public class Main {
-
-    @SuppressWarnings("checkstyle:WhitespaceAfter")
+    
     public static void main(String[] args) {
-        int evenOddNumber = 5;
+        int evenOddNumber = 4;
         double circleRadius = 4.5;
         int toTheSecondPower = 8;
 

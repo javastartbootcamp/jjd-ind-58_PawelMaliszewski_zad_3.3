@@ -1,7 +1,6 @@
 package pl.javastart.task;
 
 public class MathTasks {
-    @SuppressWarnings({"checkstyle:WhitespaceAround", "checkstyle:NeedBraces", "checkstyle:RightCurly"})
     boolean isEven(int enterIntegerNumber) {
         return enterIntegerNumber % 2 == 0;
     }
