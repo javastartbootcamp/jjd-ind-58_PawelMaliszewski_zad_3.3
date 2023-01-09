@@ -16,7 +16,7 @@ public class Main {
 
         System.out.println("Liczba: " + evenOddNumber + " jest parzysta: " + evenResult);
         System.out.println("Liczba: " + evenOddNumber + " jest nieparzysta: " + oddResult);
-        System.out.printf("%s%.2f%s%.2f\n", "Jeżeli promień koła wynośi: ", circleRadius, " to pole kola = ", circleField);
+        System.out.printf("%s%.2f%s%.2f\n", "Jeżeli promień koła wynosi: ", circleRadius, " to pole kola = ", circleField);
         System.out.println("Liczba " + toTheSecondPower + " do potęgi 2 = " + power);
 
     }
